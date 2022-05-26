@@ -14,6 +14,7 @@ void rulefunction RuleFunctions.PreProcessor {
 		// Replies to the request event, in order to close the HTTP request.
 		// To keep it simple, uses the request event as the response. 
 		Event.replyEvent(request, request);		
+		
 	}
 	
 }
