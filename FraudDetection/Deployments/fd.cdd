@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <cluster xmlns="http://tibco.com/businessevents/configuration/6.1">
     <revision>
-        <version>27</version>
+        <version>29</version>
         <author>TIBCO Software Inc.</author>
-        <date>2022/05/20 10:42:46</date>
+        <date>2022/05/31 14:18:01</date>
         <comment/>
     </revision>
     <name>fd</name>
@@ -114,7 +114,7 @@
                 </agent>
             </agents>
             <logs>logConfig</logs>
-            <hot-deploy>false</hot-deploy>
+            <hot-deploy>true</hot-deploy>
             <cache-storage-enabled>false</cache-storage-enabled>
             <db-concepts>false</db-concepts>
             <property-group>
@@ -124,6 +124,7 @@
                     <property name="com.sun.management.jmxremote.port" value="5560"/>
                     <property name="com.sun.management.jmxremote.authenticate" value="false"/>
                 </property-group>
+                <property name="setignorerootElement" value="be.http.json.rootElement.ignore"/>
             </property-group>
         </processing-unit>
     </processing-units>
