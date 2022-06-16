@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<event:SimpleEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" folder="/Events/" name="Unsuspend" description="" GUID="4EF2BD23-61A1-EC3C-DB25-BB3EF0077863" ownerProjectName="FraudDetection" superEventPath="/Events/AccountOperations" ttlUnits="Seconds" channelURI="/Channels/HTTP" destinationName="AllOps">
+<event:SimpleEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" folder="/Events/" name="Unsuspend" description="" GUID="2622FECD-3104-6BD1-4EBF-C727A3353AC6" ownerProjectName="FraudDetection" superEventPath="/Events/AccountOperations" ttlUnits="Seconds" channelURI="/Channels/HTTP" destinationName="AllOps">
   <extendedProperties/>
   <expiryAction name="Restore_expiryAction" ownerProjectName="FraudDetection" actionText="" conditionText="">
     <symbols>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channel:Channel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:channel="http:///com/tibco/cep/designtime/core/model/service/channel" xmlns:designtime="http:///com/tibco/cep/designtime/core/model/designtime_ontology.ecore" folder="/Channels/" name="HTTP" description="" GUID="DD478B6C-A27E-0F4C-9E90-F2D058E5D5B8" ownerProjectName="FraudDetection">
+<channel:Channel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:channel="http:///com/tibco/cep/designtime/core/model/service/channel" xmlns:designtime="http:///com/tibco/cep/designtime/core/model/designtime_ontology.ecore" folder="/Channels/" name="HTTP" description="" GUID="E401D9AC-6A5D-00DD-8BD5-7232A0237B65" ownerProjectName="FraudDetection">
   <driver xsi:type="channel:HttpChannelDriverConfig" configMethod="REFERENCE" reference="/SharedResources/HTTPConnection.sharedhttp" label="HTTP" channel="/">
-    <destinations name="AllOps" description="" GUID="333C9AB0-73E1-3899-9272-9DEDB6739CC3" ownerProjectName="FraudDetection" eventURI="/Events/AccountOperations" serializerDeserializerClass="com.tibco.cep.driver.http.serializer.RESTMessageSerializer" driverConfig="//@driver">
+    <destinations name="AllOps" description="" GUID="091B8247-E3DD-A0AD-6CB7-8D1581F57921" ownerProjectName="FraudDetection" eventURI="/Events/AccountOperations" serializerDeserializerClass="com.tibco.cep.driver.http.serializer.RESTMessageSerializer" driverConfig="//@driver">
       <properties>
         <properties xsi:type="designtime:SimpleProperty" name="be.http.type" value="DEFAULT"/>
         <properties xsi:type="designtime:SimpleProperty" name="be.http.contextPath" value=""/>

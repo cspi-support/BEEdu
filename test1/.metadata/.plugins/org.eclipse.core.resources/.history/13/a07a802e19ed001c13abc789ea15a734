@@ -1,0 +1,24 @@
+/**
+ * @description 
+ * @author DESKTOP-JH88506
+ */
+rule Rules.BadCreateAccount {
+	attribute {
+		priority = 3;
+		forwardChain = true;
+	}
+	declare {
+		
+		Concepts.Account account;
+		Events.CreateAccount createaccount;
+	}
+	when {
+//Checks whether the extId of an Account instance in working memory
+//matches the incoming event's account ID
+account@extId == createaccount.AccountId;
+	}
+	then {
+System.debugOut("#### Account already exists: " + createaccount.AccountID;
+Event.consumeEvent(createaccount);
+	}
+}

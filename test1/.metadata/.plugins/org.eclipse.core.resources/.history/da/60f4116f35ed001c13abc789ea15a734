@@ -1,0 +1,23 @@
+/**
+ * @description 
+ * @author DESKTOP-JH88506
+ */
+rule Rules.UnsuspendAccount {
+	attribute {
+		priority = 1;
+		forwardChain = true;
+	}
+	declare {
+		
+		Concepts.Account account;
+		Events.Unsuspend unsuspend;
+	}
+	when {
+account@extId == request.AccountId;
+account.Status == "Suspended";		
+	}
+	then {
+account.Status = "Normal";
+		
+	}
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<event:SimpleEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" folder="/Events/" name="Debit" description="Specifies an account (by inheritance) and a debit amount" GUID="0CD2B554-23F4-91B2-F271-BB5B6A9C8BCF" ownerProjectName="FraudDetection" superEventPath="/Events/AccountOperations" ttlUnits="Seconds">
+<event:SimpleEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" folder="/Events/" name="Debit" description="Specifies an account (by inheritance) and a debit amount" GUID="229C047F-4C87-D7F3-1627-5827528F7D6A" ownerProjectName="FraudDetection" superEventPath="/Events/AccountOperations" ttlUnits="Seconds">
   <extendedProperties/>
   <properties name="Amount" ownerProjectName="FraudDetection" type="double"/>
   <expiryAction name="Debit_expiryAction" ownerProjectName="FraudDetection" actionText="" conditionText="">

@@ -1,0 +1,398 @@
+{
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/../../studio/eclipse/plugins/com.tibco.cep.datamodeling_6.2.0.jar" : {
+    "modificationStamp" : 1635471590000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/plugins/org.eclipse.emf.ecore.xmi_2.16.0.v20190528-0725.jar" : {
+    "modificationStamp" : 1635472072000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/opentelemetry/opentelemetry-context-1.2.0.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/SparseBitSet-1.2.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.util.eclipse_5.60.100.001.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/../../studio/eclipse/plugins/com.tibco.cep.eventstreamprocessing.common_6.2.0.jar" : {
+    "modificationStamp" : 1635472924000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/org.genxdm.xpath.v20_1.4.1.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/xmlbeans-3.1.0.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-store-cassandra.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-openapi.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jaxb-xjc-2.3.0.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/TIBCOrt.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-interpreter.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-telemetry.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-as-channel.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-maven.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/tomcat-embed-core.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/be-studiofunctions.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-loadbalancer.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/poi-ooxml-4.1.2.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-store-as.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/../../studio/eclipse/plugins/com.tibco.cep.datamodeling.common_6.2.0.jar" : {
+    "modificationStamp" : 1635471590000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/Deployment.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/../../studio/eclipse/plugins/com.tibco.cep.studio.common_6.2.0.jar" : {
+    "modificationStamp" : 1635472668000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-kafka-streams.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/../../studio/eclipse/plugins/com.tibco.cep.decision.table.common_6.2.0.jar" : {
+    "modificationStamp" : 1635471676000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.xml.xdata.eclipse_5.60.100.001.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/javassist.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.xml.sdk.eclipse_5.60.100.002.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/log4j-core-2.14.1.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jsons2xsd-2.3.0.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.xml.soap.eclipse_5.60.100.001.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.net.eclipse_5.60.100.001.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/../../studio/eclipse/plugins/com.tibco.cep.eventstreamprocessing_6.2.0.jar" : {
+    "modificationStamp" : 1635472924000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.xml.ws.wsdl.eclipse_5.60.100.001.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jackson-databind-2.12.5.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-common.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/TIBCrypt.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/javax.activation-1.2.0.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jaxb-core.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-sb-channel.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-kafka.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/../../studio/eclipse/plugins/com.tibco.cep.tpcl_6.2.0.jar" : {
+    "modificationStamp" : 1635472668000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-modules.jar" : {
+    "modificationStamp" : 1635471590000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/json-schema-validator-1.0.57.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jackson-core-2.12.5.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/log4j-api-2.14.1.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-base.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/be-q.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/opentelemetry/opentelemetry-api-1.2.0.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-mqtt-channel.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-activespaces-channel.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/slf4j-api-1.7.32.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jackson-dataformat-yaml-2.12.5.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jaxb-api-2.3.1.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.xml.ae2xsd.eclipse_5.60.100.001.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jackson-module-jaxb-annotations-2.12.5.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/be-functions.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-datagrid-tibco.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-ftl-cluster.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-kinesis-channel.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/plugins/org.eclipse.emf.common_2.20.0.v20200822-0801.jar" : {
+    "modificationStamp" : 1635472072000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-analytics.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-container.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-store-ignite.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/org.genxdm.processor.xpath.v20_1.4.1.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/snakeyaml-1.28.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/../../studio/eclipse/plugins/com.tibco.cep.tra_6.2.0.jar" : {
+    "modificationStamp" : 1635472668000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-influxdb.jar" : {
+    "modificationStamp" : 1635472390000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-kernel.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-ftl.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/poi-4.1.2.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-channel-api.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/commons-lang3-3.12.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/commons-validator-1.7.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.xml.transform.eclipse_5.60.100.001.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/plugins/org.eclipse.emf.ecore_2.23.0.v20200630-0516.jar" : {
+    "modificationStamp" : 1635472068000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/eclipse-platform/eclipse/../../studio/eclipse/plugins/com.tibco.cep.rt_6.2.0.jar" : {
+    "modificationStamp" : 1635472668000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-security.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jackson-module-jsonSchema-2.12.5.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-apis-async.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-backingstore.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-hawk-channel.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/commons-compress-1.19.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/commons-collections4-4.4.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/antlr-3.2.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jaxb-impl.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-drivers.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.lex.yap.eclipse_5.60.100.001.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/poi-ooxml-schemas-4.1.2.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-pattern.jar" : {
+    "modificationStamp" : 1635472954000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/com.tibco.tibcoxml.io.eclipse_5.60.100.001.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/apache/commons-math3-3.6.1.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/jackson-annotations-2.12.5.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-liveview.jar" : {
+    "modificationStamp" : 1635472390000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tibco/org.genxdm.api_1.4.1.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/ext/tpcl/opentelemetry/opentelemetry-sdk-extension-autoconfigure-1.2.0-alpha.jar" : {
+    "modificationStamp" : 1635472476000,
+    "hasAnnotations" : false
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-query.jar" : {
+    "modificationStamp" : 1635472924000,
+    "hasAnnotations" : true
+  },
+  "/D:/tibco_bw6/be/6.2/lib/cep-store.jar" : {
+    "modificationStamp" : 1635472478000,
+    "hasAnnotations" : true
+  }
+}

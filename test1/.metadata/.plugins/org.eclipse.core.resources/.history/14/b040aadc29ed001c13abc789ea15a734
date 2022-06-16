@@ -1,0 +1,24 @@
+/**
+ * @description 
+ * @author DESKTOP-JH88506
+ */
+rule Rules.CreateAccount {
+	attribute {
+		priority = 5;
+		forwardChain = true;
+	}
+	declare {
+		
+		Events.CreateAccount createaccount;
+	}
+	when {
+		
+	}
+	then {
+Concepts.Account.Account(createaccount.AccountId/*extId String */,
+createaccount.Balance/*Balance double */,
+0/*Debits double */,
+"Normal"/*Status String */,
+createaccount.AvgMonthlyBalance/*AvgMonthlyBalance double */);	
+	}
+}

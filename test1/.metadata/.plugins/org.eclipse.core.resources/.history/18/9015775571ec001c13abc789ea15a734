@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event:SimpleEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" folder="/Events/" name="Debit" description="Specifies an account (by inheritance) and a debit amount" GUID="FBFD27D1-A28E-73DF-88D0-934F35A9794F" ownerProjectName="yeoni_FraudDetection" superEventPath="/Events/AccountOperations" ttlUnits="Seconds">
+  <expiryAction name="Debit_expiryAction" ownerProjectName="yeoni_FraudDetection" actionText="" conditionText="">
+    <symbols>
+      <symbolList idName="debit" type="/Events/Debit"/>
+    </symbols>
+  </expiryAction>
+</event:SimpleEvent>

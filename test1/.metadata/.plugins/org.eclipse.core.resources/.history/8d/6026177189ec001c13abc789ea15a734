@@ -1,0 +1,15 @@
+/**
+ * @description 
+ */
+void rulefunction RuleFunctions.PreProcessor {
+	attribute {
+		validity = ACTION;
+	}
+	scope {
+		
+		Event Request;
+	}
+	body {
+	Event.replyEvent(Request,Request);	
+	}
+}

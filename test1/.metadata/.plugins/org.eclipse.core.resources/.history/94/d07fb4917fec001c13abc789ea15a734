@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event:SimpleEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" folder="/Events/" name="CreateAccount" description="Triggers the CreateAccount rule to create an account" GUID="861646EC-E24B-2C36-C8C3-F2A84AE2CA79" ownerProjectName="yeoni_FraudDetection" superEventPath="/Events/AccountOperations" ttlUnits="Seconds">
+  <properties name="AvgMonthlyBalance" ownerProjectName="yeoni_FraudDetection" type="double"/>
+  <properties name="Balance" ownerProjectName="yeoni_FraudDetection" type="double"/>
+  <expiryAction name="CreateAccount_expiryAction" ownerProjectName="yeoni_FraudDetection" actionText="" conditionText="">
+    <symbols>
+      <symbolList idName="createaccount" type="/Events/CreateAccount"/>
+    </symbols>
+  </expiryAction>
+</event:SimpleEvent>

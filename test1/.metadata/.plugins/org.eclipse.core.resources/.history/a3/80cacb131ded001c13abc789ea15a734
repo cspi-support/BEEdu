@@ -1,0 +1,19 @@
+/**
+ * @description 
+ * @author DESKTOP-JH88506
+ */
+rule Rules.CreateAccount {
+	attribute {
+		priority = 5;
+		forwardChain = true;
+	}
+	declare {
+		
+	}
+	when {
+		
+	}
+	then {
+		
+	}
+}

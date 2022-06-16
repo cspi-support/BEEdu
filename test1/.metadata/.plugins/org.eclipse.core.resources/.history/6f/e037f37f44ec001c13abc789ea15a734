@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element:Concept xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:element="http:///com/tibco/cep/designtime/core/model/element" folder="/Concepts/" name="Account" description="This concept maintains history for account transactions" GUID="14B442FB-022E-2C59-027A-6324F1997BFE" ownerProjectName="FraudDetection" superConceptPath="" autoStartStateMachine="true">
+  <extendedProperties/>
+  <properties name="Balance" ownerProjectName="FraudDetection" type="double" historySize="1"/>
+  <properties name="Debits" ownerProjectName="FraudDetection" type="double" historyPolicy="1" historySize="5"/>
+  <properties name="Status" ownerProjectName="FraudDetection" historySize="1"/>
+  <properties name="AvgMonthlyBalance" ownerProjectName="FraudDetection" type="double"/>
+</element:Concept>
