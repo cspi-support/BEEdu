@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<channel:Channel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:channel="http:///com/tibco/cep/designtime/core/model/service/channel" folder="/Channels/" name="HTTP" description="" GUID="803157CB-9BC6-DFB8-DB04-01263EEDC029" ownerProjectName="yeoni_FraudDetection">
-  <driver xsi:type="channel:HttpChannelDriverConfig" configMethod="REFERENCE" label="HTTP" channel="/">
-    <driverType xsi:type="channel:DriverTypeInfo" driverTypeName="HTTP"/>
-  </driver>
-</channel:Channel>

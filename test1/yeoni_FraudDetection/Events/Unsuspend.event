@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<event:SimpleEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" folder="/Events/" name="Unsuspend" description="Triggers the UnsuspendAccount rule to change the customer status from Suspended&#xD;&#xA;to Normal" GUID="6A3F7655-7F72-6379-1541-893A71F01198" ownerProjectName="yeoni_FraudDetection" superEventPath="/Events/AccountOperations" ttlUnits="Seconds">
-  <expiryAction name="Unsuspend_expiryAction" ownerProjectName="yeoni_FraudDetection" actionText="" conditionText="">
-    <symbols>
-      <symbolList idName="unsuspend" type="/Events/Unsuspend"/>
-    </symbols>
-  </expiryAction>
-</event:SimpleEvent>
